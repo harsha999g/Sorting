@@ -39,6 +39,7 @@ public class InsertionSort {
         ob.sort(arr); 
   
         printArray(arr); 
+	   printArray(arr); 
     } 
 
 }
