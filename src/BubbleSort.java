@@ -32,5 +32,6 @@ public class BubbleSort {
 		ob.bubbleSort(arr);
 		System.out.println("Sorted array");
 		ob.printArray(arr);
+		System.out.println("Local Testing done");
 	}
 }
